@@ -1,0 +1,92 @@
+[
+    {
+        "rounds": 1000000,
+        "total": 3580026479,
+        "avg": {
+            "allCollected": 3580.026479,
+            "getCentury": 9.944517997222222,
+            "getRelic": 1.6574196662037037
+        }
+    },
+    {
+        "rounds": 1000000,
+        "total": 3579581083,
+        "avg": {
+            "allCollected": 3579.581083,
+            "getCentury": 9.943280786111112,
+            "getRelic": 1.657213464351852
+        }
+    },
+    {
+        "rounds": 1000000,
+        "total": 3579987209,
+        "avg": {
+            "allCollected": 3579.987209,
+            "getCentury": 9.94440891388889,
+            "getRelic": 1.657401485648148
+        }
+    },
+    {
+        "rounds": 1000000,
+        "total": 3579299202,
+        "avg": {
+            "allCollected": 3579.299202,
+            "getCentury": 9.942497783333334,
+            "getRelic": 1.6570829638888889
+        }
+    },
+    {
+        "rounds": 1000000,
+        "total": 3579647272,
+        "avg": {
+            "allCollected": 3579.647272,
+            "getCentury": 9.943464644444445,
+            "getRelic": 1.6572441074074074
+        }
+    },
+    {
+        "rounds": 1000000,
+        "total": 3579787130,
+        "avg": {
+            "allCollected": 3579.78713,
+            "getCentury": 9.943853138888889,
+            "getRelic": 1.6573088564814815
+        }
+    },
+    {
+        "rounds": 1000000,
+        "total": 3579760355,
+        "avg": {
+            "allCollected": 3579.760355,
+            "getCentury": 9.943778763888888,
+            "getRelic": 1.6572964606481482
+        }
+    },
+    {
+        "rounds": 1000000,
+        "total": 3579682410,
+        "avg": {
+            "allCollected": 3579.68241,
+            "getCentury": 9.94356225,
+            "getRelic": 1.657260375
+        }
+    },
+    {
+        "rounds": 1000000,
+        "total": 3579481096,
+        "avg": {
+            "allCollected": 3579.481096,
+            "getCentury": 9.943003044444444,
+            "getRelic": 1.657167174074074
+        }
+    },
+    {
+        "rounds": 1000000,
+        "total": 3579654628,
+        "avg": {
+            "allCollected": 3579.654628,
+            "getCentury": 9.943485077777778,
+            "getRelic": 1.657247512962963
+        }
+    }
+]
