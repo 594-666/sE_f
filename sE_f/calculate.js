@@ -21,9 +21,10 @@ let mostCenturyTimes = 0, mostCentury = ""  //開最多次的遺物
 let mostRelic = {name: "", times: 0, source: "", rarity: ""} //開到最多次的遺物
 let centuryAverage, objectAverage   //遺物/裝備 開/開到的平均次數
 let wieryObject //奇怪欸
-const rounds = 5000
-let divid = 500
+const rounds = 1000000
+let divid = 1000
 console.time('耗時')
+    
 for(let r = 1; r <= rounds; r++) {
 
     liths = []

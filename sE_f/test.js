@@ -1,8 +1,6 @@
-const reTurn1 = () => {return 'F'}
+let arr = [1,2,3,4]
+let arrr = [5, 6, 7 ,8]
 
-const reTurn2 = () => {
-    return reTurn1()
-    return 'GG'
-}
+arrr.push(arr.splice(2, 1)[0])
 
-console.log(reTurn2())
+console.log(arrr)
